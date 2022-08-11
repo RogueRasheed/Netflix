@@ -1,0 +1,249 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    direction: ltr;
+}
+
+#body{
+    display: block;
+}
+
+.span1{
+    width: 100%;
+    display: flow-root;
+    border-bottom: solid 1px #ccc;
+}
+
+.Netflix{
+    top: 3%;
+    left: 3%;
+    width: 175px;
+    position: relative;
+    margin-top: 20px;
+    margin-left: 10px; 
+    float: left;
+    
+}
+   
+.span2{
+    position: relative;
+    width: 100%;
+}
+
+
+.signin{
+        text-align: right;
+        margin-top: 0;
+        margin-right: 60px;
+        float: right;
+        position: relative;
+        color: #333;
+        font-weight: 700;
+        font-size: 19px;
+        line-height: 90px;
+        text-decoration: none;
+        font-family: sans-serif;
+}
+
+.signin:hover{
+    text-decoration: underline;
+}
+
+.simpleContainer{
+    padding-bottom: 95px;
+    flex-grow: 1;
+    background-color: #fff;
+    width: 100%;
+}
+
+.form-container-wrapper{
+    padding: 20px;
+    overflow: hidden;
+    margin: 0 auto 15px;
+    max-width: 500px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    padding-bottom: 100px;
+
+}
+
+.form-container{
+    text-align: left;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.context2{
+    text-align: left;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.context1{
+    font-size: 18px;
+}
+
+.stepIndicator{
+    text-align: inherit;
+    font-size: 13px;
+    display: block;
+    line-height: 15px;
+}
+
+.stepTitle{
+    display: inline-block;
+    font-weight: 700;
+}
+
+h1{
+    margin-top: 6px;
+    text-align: left;
+
+}
+
+.contextRow{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 18px;
+}
+
+.simpleForm{
+    margin: 16px 0 20px;
+}
+
+ul.structural{
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-space{
+    text-align: left;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    width: 400px;
+    text-align: left;
+}
+
+.form1{
+    text-align: left;
+}
+.form2{
+    text-align: left;
+}
+
+.textfield1{
+    height: 60px;
+    width: 100%;
+    padding: 10px 10px 0;
+    font-size: 16px;
+}
+
+.username{
+    margin-bottom: 20px;
+}
+
+.password1{
+    margin-bottom: 10px;
+}
+.textfield2{
+    height: 60px;
+    width: 100%;
+    padding: 10px 10px 0;
+    font-size: 16px;
+}
+
+.checkbox-wrapper{
+    margin-bottom: 10px;
+}
+
+.checkbox1{
+    position: relative;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+.checkboxitself{
+    height: 10px;
+}
+
+input.checkboxitself{
+    width: 30px;
+    height: 30px;
+}
+
+.Next-button{
+    margin-top: 15px;
+    width: 100%;
+}
+
+#button2{
+    background-color: red;
+    color: white;
+    font-family: sans-serif;
+    font-size: 1rem;
+    border: none;
+    padding: 15px;
+    padding-left: 170px;
+    padding-right: 200px;
+}
+
+.site-footer-wrapper{
+    min-width: 190px;
+    padding-bottom: 20px;
+    margin-top: 80px;
+    font-size: 1em;
+    position: relative;
+    background-color: #f3f3f3;
+    opacity: 0.8;
+}
+
+.site-footer{
+    color: #757575;
+    background-color: #f3f3f3;
+    padding: 30px 0px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.footer-top{
+    padding: 0;
+    margin: 0 0 30px;
+}
+.footer-top:hover{
+    text-decoration: underline;
+}
+
+ul.structural{
+    margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+
+ul.structural{
+    list-style: none;
+    margin-left: 0;
+}
+
+
+.footer-link{
+    max-width: 1000px;
+    font-size: 13px;
+    box-sizing: border-box;
+}
+
+.footer-link-item{
+    box-sizing: border-box;
+    padding: 0;
+    margin-bottom: 16px;
+    display: inline-block;
+    min-width: 100px;
+    padding-right: 12px;
+    vertical-align: top;
+    color: #757575;
+}
